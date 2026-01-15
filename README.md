@@ -16,7 +16,7 @@ Tavoitteeni on kehittää vahva ymmärrys ohjelmistokehityksen parhaista käytä
 - Kehittyä ohjelmistokehittäjäksi, joka voi työskennellä sekä itsenäisesti että tiimissä vaativien projektien parissa  
 
 ## 📫 Ota yhteyttä
-- Sähköposti: jasperkylväjä@gmail.com 
+- Sähköposti: jasperkylvaja@gmail.com 
 - GitHub: (https://github.com/ligumas)
 
 _"Koodi ei ole vain työkalu; se on tapa ajatella ja ratkaista ongelmia älykkäästi."_  
